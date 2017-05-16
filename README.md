@@ -1,0 +1,2 @@
+# cop5536sp17HuffmanCoding
+This is a course project for advanced data structure. In the project, three data structures including binary heap, 4-way heap and pairing heap are implemented. The time required for each of the heap to construct the huffman tree was assessed and it proved that 4-way heap is the fastest data structure. Uilization of 4-way heap, huffman encoding and decoding are implemented.
